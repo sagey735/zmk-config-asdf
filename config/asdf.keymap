@@ -7,7 +7,6 @@
 
 / {
 
-    / {
     macros {
         alt_f4: altf4 {
             compatible = "zmk,behavior-macro";
