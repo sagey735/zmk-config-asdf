@@ -8,7 +8,7 @@
 / {
 
     macros {
-        alt_f4: altf4 {
+        altf4: altf4 {
             compatible = "zmk,behavior-macro";
             #binding-cells = <0>;
             bindings
