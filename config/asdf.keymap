@@ -48,6 +48,7 @@
                 &trans      &trans     &trans     &trans     &kp F11    &kp F12      &bt BT_CLR     &bt BT_SEL 0    &trans     &altf4      &kp K_CMENU  &trans      &trans      &trans
                 &trans      &trans     &trans     &trans     &mo3       &trans       &bt BT_SEL 2   &bt BT_SEL 2    &trans     &trans      &trans       &trans      &trans      &trans
             >;     
+        };
 
         layer_3 {                      
             bindings = <                              
