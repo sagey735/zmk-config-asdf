@@ -27,9 +27,9 @@
                 = <&macro_press &kp LGUI>
                 , <&macro_tap &kp X>
                 , <&macro_release &kp LGUI>
-                , <&macro_wait_time 500>
+                , <&macro_wait_time 1500>
                 , <&macro_tap &kp U>
-                , <&macro_wait_time 500>
+                , <&macro_wait_time 1500>
                 , <&macro_tap &kp S>;
                 
         
